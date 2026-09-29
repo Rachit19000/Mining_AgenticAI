@@ -1,0 +1,56 @@
+[
+  {
+    "id": "DR-201",
+    "type": "Driller",
+    "zone": "Zone A",
+    "status": "operational",
+    "operating_hours": 3200,
+    "last_service": "2026-08-30",
+    "fault": null
+  },
+  {
+    "id": "HV-101",
+    "type": "Ventilation Fan",
+    "zone": "Zone B",
+    "status": "warning",
+    "operating_hours": 8200,
+    "last_service": "2026-07-15",
+    "fault": "Reduced airflow"
+  },
+  {
+    "id": "HT-305",
+    "type": "Haul Truck",
+    "zone": "Zone B",
+    "status": "operational",
+    "operating_hours": 5100,
+    "last_service": "2026-09-01",
+    "fault": null
+  },
+  {
+    "id": "CB-410",
+    "type": "Conveyor Belt",
+    "zone": "Zone C",
+    "status": "critical",
+    "operating_hours": 11200,
+    "last_service": "2026-05-20",
+    "fault": "Motor overheating"
+  },
+  {
+    "id": "HV-102",
+    "type": "Ventilation Fan",
+    "zone": "Zone C",
+    "status": "operational",
+    "operating_hours": 4300,
+    "last_service": "2026-09-10",
+    "fault": null
+  },
+  {
+    "id": "DR-202",
+    "type": "Driller",
+    "zone": "Zone C",
+    "status": "warning",
+    "operating_hours": 9800,
+    "last_service": "2026-06-12",
+    "fault": "Hydraulic pressure low"
+  }
+]

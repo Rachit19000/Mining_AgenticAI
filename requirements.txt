@@ -1,0 +1,6 @@
+# Core agent runs on the Python standard library only (offline, deterministic).
+# Testing:
+pytest==8.3.3
+
+# Optional bonus web UI:
+# streamlit==1.38.0
