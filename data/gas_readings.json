@@ -3,24 +3,18 @@
     "zone": "Zone A",
     "methane": 0.4,
     "carbon_monoxide": 8,
-    "temperature": 29,
-    "dust": 1.2,
     "timestamp": "2026-09-24 07:45"
   },
   {
     "zone": "Zone B",
     "methane": 1.8,
     "carbon_monoxide": 15,
-    "temperature": 34,
-    "dust": 2.4,
     "timestamp": "2026-09-24 07:50"
   },
   {
     "zone": "Zone C",
     "methane": 0.9,
     "carbon_monoxide": 22,
-    "temperature": 31,
-    "dust": 1.7,
     "timestamp": "2026-09-24 07:55"
   }
 ]
